@@ -6,3 +6,4 @@ Para conferir o projeto online acesse https://leandromendoncadev.github.io/proje
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
  
+![image](https://github.com/user-attachments/assets/f604d9b4-9e24-4fe4-b7d9-ea4ecf21ab06)
